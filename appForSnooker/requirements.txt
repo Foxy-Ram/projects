@@ -1,0 +1,4 @@
+python = 3.10.6
+eel = 0.16.0
+pyautogui = 0.9.54
+pandas = 1.5.1
