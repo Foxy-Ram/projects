@@ -17,5 +17,4 @@ def send_data(*args, **kwargs):
         df.loc[len(df.index)] = data
         df.to_csv("snooker_data.csv",index=False)
     
-    
 eel.start('index.html', size=(pag.size()))
