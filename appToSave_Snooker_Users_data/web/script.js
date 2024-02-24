@@ -162,7 +162,7 @@ set_timer_for_table("time_stamp_r3", "fbn3", '3')
 set_timer_for_table("time_stamp_r4", "fbn4", '4')
 set_timer_for_table("time_stamp_r5", "fbn5", '5')
 
-/*
+
 //obstruction to reload
 window.addEventListener("beforeunload", function(e) {
     e.preventDefault();
@@ -174,9 +174,8 @@ window.addEventListener("keydown", function(e) {
     }
 });
 
-*/
 
-
+// It is not important more it just prints  name when the user entered data passed into python file.
 function call_back(output){
     document.getElementById('kalyan').innerHTML = output
 }
