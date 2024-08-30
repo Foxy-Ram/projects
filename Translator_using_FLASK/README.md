@@ -1,7 +1,4 @@
-# Hey folks ,
+## Hey folks
+### The preview of project
+https://github.com/user-attachments/assets/c115e7da-f391-425b-af65-19f4a76254b0
 
-The retrieve_lang.py which is used to get the certain languages that needs to put in our translation application 
-concurrently we need to change the options in html, if we supposed to add new languages.
-![hello](https://raw.githubusercontent.com/Foxy-Ram/projects/blob/master/Translator_using_FLASK/OUTPUT-GUI.mp4)
-
- 
